@@ -1,5 +1,5 @@
 # Circuits
-Useful circuits
+This repository contains the schematics and simulation of some useful circuits.
 
 ## Battery Backup Circuit
 This circuit provides a battery backup when the main power is out.
