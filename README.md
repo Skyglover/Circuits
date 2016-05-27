@@ -11,4 +11,4 @@ This voltage comparator could be sent to a GPIO on a microcontroller.
 ## Interface Relay with a Microcontroller
 In this circuit, a microcontroller digital output is used to interface a relay.
 
-[backup]: ./BatteryBackup/BatteryBackup.BMP "Battery Backup Circuit"
+[backup]: ./BatteryBackup/BatteryBackup.SVG "Battery Backup Circuit"
